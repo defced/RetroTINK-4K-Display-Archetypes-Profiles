@@ -1,6 +1,58 @@
 # RetroTINK-4K-Display-Archetypes-Profiles
-A personal collection of Retrotink 4K Pro profiles designed to emulate a wide range of historical display technologies — from professional broadcast CRT monitors and consumer televisions to arcade cabinets, PC monitors, handheld screens, and early flat panels.
+A personal collection of RetroTINK 4K Pro profiles designed to emulate a wide range of historical display technologies — from professional broadcast CRT monitors and consumer televisions to arcade cabinets, PC monitors, handheld screens, and early flat panels.
 
+## Table of Contents
+
+- [Philosophy](#philosophy)
+- [How to Install](#how-to-install)
+- [Required Setup](#required-setup)
+- [Profiles](#profiles)
+
+### PRO SERIES
+- [01 PRO - HD BVM 1000](#01-pro---hd-bvm-1000)
+- [02 PRO - BVM 800](#02-pro---bvm-800)
+- [03 PRO - PVM 600](#03-pro---pvm-600)
+- [04 PRO - Shadow Mask](#04-pro---shadow-mask)
+- [05 PRO - Arcade 90s](#05-pro---arcade-90s)
+- [06 PRO - Arcade 80s](#06-pro---arcade-80s)
+- [07 PRO - Medical Mono](#07-pro---medical-mono)
+- [08 PRO - CCTV Mono](#08-pro---cctv-mono)
+
+### TV SERIES
+- [10 TV - HD CRT Widescreen 100Hz](#10-tv---hd-crt-widescreen-100hz)
+- [11 TV - Trinitron](#11-tv---trinitron)
+- [12 TV - Slot Mask (D-Series Style)](#12-tv---slot-mask-d-series-style)
+- [13 TV - 90s Budget](#13-tv---90s-budget)
+- [14 TV - 80s Budget](#14-tv---80s-budget)
+
+### PC SERIES
+- [20 PC - High-End CRT (FW900)](#20-pc---high-end-crt-fw900)
+- [21 PC - VGA Pro (Iiyama VM)](#21-pc---vga-pro-iiyama-vm)
+- [22 PC - 90s VGA Classic](#22-pc---90s-vga-classic)
+- [23 PC - Mono Amber](#23-pc---mono-amber)
+- [24 PC - Mono Green](#24-pc---mono-green)
+- [25 PC - LCD Early 2000s TN](#25-pc---lcd-early-2000s-tn)
+- [26 PC - LCD Late 2000s Studio IPS](#26-pc---lcd-late-2000s-studio-ips)
+
+### HANDHELD SERIES
+- [30 LCD - DMG](#30-lcd---dmg)
+- [31 LCD - Grayscale](#31-lcd---grayscale)
+- [32 LCD - Early Color](#32-lcd---early-color)
+- [33 LCD - Triad Color](#33-lcd---triad-color)
+- [34 LCD - Reflective Color](#34-lcd---reflective-color)
+- [35 LCD - Backlit Color](#35-lcd---backlit-color)
+- [36 OLED - Amoled](#36-oled---amoled)
+
+### SPEC SERIES
+- [40 SPEC Plasma - EDTV](#40-spec-plasma---edtv)
+- [41 SPEC LCD - Early HD TV](#41-spec-lcd---early-hd-tv)
+- [42 SPEC DLP - Projector](#42-spec-dlp---projector)
+- [43 SPEC LED - Dot Matrix Panel](#43-spec-led---dot-matrix-panel)
+- [44 SPEC CRT - Vector](#44-spec-crt---vector)
+- [45 SPEC CRT - Micro Travel](#45-spec-crt---micro-travel)
+- [46 SPEC LCD - Camera Screen](#46-spec-lcd---camera-screen)
+- [47 SPEC DMD - Pinball Display](#47-spec-dmd---pinball-display)
+- [48 SPEC LED - Virtual Boy](#48-spec-led---virtual-boy)
 
 ## PHILOSOPHY
 
@@ -55,7 +107,7 @@ If you are not using BFI, you can lower the SMPTE 2084 (PQ) value in the RT4K Co
 
 All profiles were created and tested using RetroTINK 4K firmware version 1.9.6.
 
-# Profile Descriptions
+# Profiles
 
 ## PRO SERIES
 
@@ -113,7 +165,7 @@ Perfect for fighting games, shoot ’em ups, and Neo Geo titles — like steppin
 
 ⸻
 
-### 06  PRO - Arcade 80s
+### 06 PRO - Arcade 80s
 
 Emulates the look of early-generation arcade CRT monitors from the golden age of the 1980s.
 
