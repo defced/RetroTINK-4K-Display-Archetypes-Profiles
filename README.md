@@ -110,6 +110,8 @@ All profiles were created and tested using RetroTINK 4K firmware version 1.9.6.
 
 # Profiles
 
+---
+
 ## PRO SERIES
 
 Professional monitors and broadcast reference displays
