@@ -110,13 +110,9 @@ All profiles were created and tested using RetroTINK 4K firmware version 1.9.6.
 
 # Profiles
 
----
-
 ## PRO SERIES
 
 Professional monitors and broadcast reference displays
-
----
 
 ### 01 PRO - HD BVM 1000
 
@@ -203,7 +199,7 @@ Hook up your Mega Drive like you’re killing time on a night shift, one eye on 
 
 Consumer televisions
 
----
+
 
 ### 10 TV - HD CRT Widescreen 100Hz
 
@@ -259,7 +255,7 @@ Boot up an NES title and you’re back in a small living room with wood furnitur
 
 Computer monitors and desktop display technologies
 
----
+
 
 ### 20 PC - High-End CRT (FW900)
 
@@ -335,7 +331,7 @@ The golden age of PC gaming — when Crysis pushed hardware to its limits and Bi
 
 Portable gaming display technologies
 
----
+
 
 ### 30 LCD - DMG
 
@@ -411,7 +407,7 @@ Perfect for imagining how your favorite retro games would look on a premium mode
 
 Experimental and niche display simulations
 
----
+
 
 ### 40 SPEC Plasma - EDTV
 
