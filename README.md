@@ -113,7 +113,7 @@ All profiles were created and tested using RetroTINK 4K firmware version 1.9.6.
 
 Professional monitors and broadcast reference displays
 
-⸻
+---
 
 ### 01 PRO - HD BVM 1000
 
@@ -123,7 +123,7 @@ Extremely sharp, clinically precise, with perfectly separated scanlines and virt
 
 Use this when you want your Xbox, PS2 or GameCube to feel wired into a professional mastering suite in the early 2000s — pure reference monitor energy.
 
-⸻
+---
 
 ### 02 PRO - BVM 800
 
@@ -133,7 +133,7 @@ Pronounced, tightly spaced scanlines with high sharpness, minimal phosphor blend
 
 Perfect for 16-bit and 32-bit consoles — the RGB reference look most collectors aspire to.
 
-⸻
+---
 
 ### 03 PRO - PVM 600
 
@@ -143,7 +143,7 @@ Moderate sharpness, natural scanlines, and gentle phosphor blending create a coh
 
 Perfect from 8-bit to PS2 — the true sweet spot for retro gaming, and the kind of professional CRT most enthusiasts actually dream of having in their game room.
 
-⸻
+---
 
 ### 04 PRO - Shadow Mask
 
@@ -153,7 +153,7 @@ Softer beam structure, smoother color blending, and a more organic image compare
 
 Ideal when you want a studio-grade CRT with added warmth and texture — the kind of professional monitor that feels less clinical and more alive.
 
-⸻
+---
 
 ### 05 PRO - Arcade 90s
 
@@ -163,7 +163,7 @@ Slightly warm tones, bright phosphor glow, and bold contrast with a lively scree
 
 Perfect for fighting games, shoot ’em ups, and Neo Geo titles — like stepping into a crowded arcade in 1996, the hum of machines in the air and a line of coins waiting on the control panel.
 
-⸻
+---
 
 ### 06 PRO - Arcade 80s
 
@@ -173,7 +173,7 @@ Bright primary colors, reduced sharpness, noticeable beam bloom, and lighter bla
 
 Perfect for 80s arcade classics like Donkey Kong and Pac-Man — back when attract screens blazed in the dark and arcade rooms echoed with buzzing speakers and coin drops.
 
-⸻
+---
 
 ### 07 PRO - Medical Mono
 
@@ -183,7 +183,7 @@ Crisp grayscale rendering, sharp detail, and strong contrast without any color i
 
 Perfect for survival horror or atmospheric titles — like viewing the game through a diagnostic display in a quiet hospital lab after hours.
 
-⸻
+---
 
 ### 08 PRO - CCTV Mono
 
@@ -194,13 +194,13 @@ Cold blue-tinted monochrome tones, slightly lifted blacks, and muted contrast re
 Hook up your Mega Drive like you’re killing time on a night shift, one eye on the cameras and the other on the screen — pure security-room atmosphere.
 
 
-⸻
+---
 
 ## TV SERIES
 
 Consumer televisions
 
-⸻
+---
 
 ### 10 TV - HD CRT Widescreen 100Hz
 
@@ -210,7 +210,7 @@ Reduced flicker, softened scanline visibility, and a denser, more processed imag
 
 Ideal for revisiting the mid-2000s, when your PS2 or GameCube felt next-gen on a big 16:9 living room TV — modern, sharp, and just a little ahead of its time.
 
-⸻
+---
 
 ### 11 TV - Trinitron
 
@@ -220,7 +220,7 @@ Vivid phosphors, strong contrast, visible aperture-grille structure, and that di
 
 This is 90s gaming in the family living room — bright Saturday morning platformers, glowing PlayStation nights, and the TV everyone secretly knew was “the good one.”
 
-⸻
+---
 
 ### 12 TV - Slot Mask (D-Series Style)
 
@@ -230,7 +230,7 @@ Smoother phosphor blending, balanced contrast, and a cohesive image structure wi
 
 The kind of premium family TV that rivaled Sony — and quietly proved there was more than one way to achieve a great CRT image.
 
-⸻
+---
 
 ### 13 TV - 90s Budget
 
@@ -240,7 +240,7 @@ Softer focus, lighter blacks, and visible blur with gentle color bleed — less 
 
 The bedroom TV most of us actually played on — sitting too close to the screen, Mega Drive plugged in so you wouldn’t monopolize the living room, gaming long past bedtime.
 
-⸻
+---
 
 ### 14 TV - 80s Budget
 
@@ -250,13 +250,13 @@ Low perceived resolution, heavy phosphor blending, thick scanlines, and softer f
 
 Boot up an NES title and you’re back in a small living room with wood furniture, patterned carpet, and a controller cable stretched tight across the floor.
 
-⸻
+---
 
 ## PC SERIES
 
 Computer monitors and desktop display technologies
 
-⸻
+---
 
 ### 20 PC - High-End CRT (FW900)
 
@@ -266,7 +266,7 @@ Extremely fine pitch, high resolution, tight scanlines, and a dense, razor-sharp
 
 Dreamcast in VGA. Early HD PC gaming. Once overlooked by most players, this is the kind of monitor retro enthusiasts rediscovered years later — realizing it was a hidden gem all along.
 
-⸻
+---
 
 ### 21 PC - VGA Pro (Iiyama VM)
 
@@ -276,7 +276,7 @@ Visible aperture-grille structure, precise RGB separation, and a sharp, stable d
 
 Perfect for Windows 95, early 3D accelerators, and competitive late-90s PC gaming — the kind of monitor only demanding players and semi-pro setups invested in.
 
-⸻
+---
 
 ### 22 PC - 90s VGA Classic
 
@@ -286,7 +286,7 @@ Slight softness, visible scanlines at lower resolutions, gentle phosphor glow, a
 
 Perfect for DOS and early Windows 95 gaming — when getting a game to run was half the battle, shareware discs piled up next to the keyboard, and the modem’s handshake echoed through the room.
 
-⸻
+---
 
 ### 23 PC - Mono Amber
 
@@ -296,7 +296,7 @@ Warm amber glow, high-contrast text, and a crisp luminance-driven image with no 
 
 Feels like writing code late at night in 1988 — a dark room, a blinking command prompt, and the quiet hum of a beige PC beside the desk.
 
-⸻
+---
 
 ### 24 PC - Mono Green
 
@@ -306,7 +306,7 @@ High-contrast green luminance, sharp text rendering, and a clean, utilitarian im
 
 Early computer labs, school classrooms, and the very beginning of home computing — when every command mattered and the future felt programmable.
 
-⸻
+---
 
 ### 25 PC - LCD Early 2000s TN
 
@@ -316,7 +316,7 @@ Grayish blacks, limited contrast, and a clearly defined pixel grid give the imag
 
 Half-Life 2, Warcraft III, or The Sims running on a beige desktop PC in a shared family office — the era when LCDs felt futuristic, even if they weren’t perfect.
 
-⸻
+---
 
 ### 26 PC - LCD Late 2000s Studio IPS
 
@@ -326,13 +326,13 @@ Accurate colors, wider viewing angles, improved contrast, and a smoother, more c
 
 The golden age of PC gaming — when Crysis pushed hardware to its limits and BioShock proved how atmospheric a game could look on a serious desktop display.
 
-⸻
+---
 
 ## HANDHELD SERIES
 
 Portable gaming display technologies
 
-⸻
+---
 
 ### 30 LCD - DMG
 
@@ -342,7 +342,7 @@ Olive-green tint, low contrast, noticeable motion blur, and visible pixel persis
 
 Perfect for Tetris, Super Mario Land, or Kirby’s Dream Land — and ideal for recreating the Gamate or Watara Supervision experience on MiSTer.
 
-⸻
+---
 
 ### 31 LCD - Grayscale
 
@@ -352,7 +352,7 @@ Neutral gray tones, limited contrast, and subtle motion blur characteristic of l
 
 Perfect for quiet afternoon Pokémon sessions, imported WonderSwan titles, or early Neo Geo Pocket games — just before handheld gaming fully embraced color.
 
-⸻
+---
 
 ### 32 LCD - Early Color
 
@@ -362,7 +362,7 @@ Oversaturated colors, limited contrast, visible pixel structure, and a slightly 
 
 Perfect for recreating late-night sessions under the covers, console plugged into the wall, the bright screen glowing in the dark — early portable color gaming at its most intense.
 
-⸻
+---
 
 ### 33 LCD - Triad Color
 
@@ -372,7 +372,7 @@ Clearly defined RGB subpixel layout, tighter pixel structure, and richer color r
 
 Perfect for recreating the premium feel of the PC Engine GT — or imagining what Megadrive games might have looked like if the Nomad had shipped with a better display.
 
-⸻
+---
 
 ### 34 LCD - Reflective Color
 
@@ -382,7 +382,7 @@ Muted colors, limited contrast, and strong dependence on ambient light — the i
 
 Perfect for recreating that era when handheld gaming meant chasing sunlight, and when the original GBA’s beautiful games were held back by a screen that desperately needed a backlight.
 
-⸻
+---
 
 ### 35 LCD - Backlit Color
 
@@ -392,7 +392,7 @@ Brighter image with improved low-light visibility, yet still limited contrast, m
 
 Perfect for reliving the spirit of those handheld classics — WonderSwan Color or GBA titles on MiSTer, captured with the feel of their original screens.
 
-⸻
+---
 
 ### 36 OLED - Amoled
 
@@ -402,13 +402,13 @@ Deep blacks, vibrant colors, strong contrast, and a dense, punchy image with no 
 
 Perfect for imagining how your favorite retro games would look on a premium modern handheld — or for recreating the bold OLED presentation of Nintendo Classics on Switch.
 
-⸻
+---
 
 ## SPEC SERIES
 
 Experimental and niche display simulations
 
-⸻
+---
 
 ### 40 SPEC Plasma - EDTV
 
@@ -418,7 +418,7 @@ Subtle dithering, phosphor-like glow, deep blacks, and a textured image that fee
 
 Perfect for reliving the early HD era — Xbox 360 in 720p or PS3 in 1080p, when plasma was the best way to get truly deep blacks and a cinematic image in a modern flat-screen TV.
 
-⸻
+---
 
 ### 41 SPEC LCD - Early HD TV
 
@@ -428,7 +428,7 @@ Grayish blacks, uneven color balance, limited contrast, and early digital scalin
 
 The beginning of the HD era — when Xbox 360 and Gears of War felt like the future, even if the screen wasn’t quite ready for it.
 
-⸻
+---
 
 ### 42 SPEC DLP - Projector
 
@@ -438,7 +438,7 @@ Large projected image, slightly softened detail, visible digital texture, and a 
 
 Perfect for recreating mid-2000s weekend sessions — Halo multiplayer projected onto a wall, or 10-player Bomberman Saturn tournaments lighting up a living room like a mini gaming event.
 
-⸻
+---
 
 ### 43 SPEC LED - Dot Matrix Panel
 
@@ -450,7 +450,7 @@ Perfect for imagining what classic games might look like on a giant public displ
 
 Note: this profile has been specifically tuned for Mega Drive output from MiSTer.
 
-⸻
+---
 
 ### 44 SPEC CRT - Vector
 
@@ -460,7 +460,7 @@ Bright, razor-sharp lines drawn directly by the electron beam — no raster grid
 
 Perfect for vector arcade classics in a dim room — a rare and almost otherworldly display style that still feels unlike anything else.
 
-⸻
+---
 
 ### 45 SPEC CRT - Micro Travel
 
@@ -470,7 +470,7 @@ Very low perceived resolution, washed-out colors, visible scanlines, and exagger
 
 Like a pocket-sized TV from another era — impractical, charming, and somehow capable of running your 90s games in the most unexpected way.
 
-⸻
+---
 
 ### 46 SPEC LCD - Camera Screen
 
@@ -480,7 +480,7 @@ Very low resolution, washed-out colors, limited viewing angles, and a flat, over
 
 Like watching your retro game through the 2-inch screen on the back of a silver point-and-shoot — a strangely charming, unmistakably early-digital experience.
 
-⸻
+---
 
 ### 47 SPEC DMD - Pinball Display
 
@@ -490,7 +490,7 @@ Large circular pixels, strong contrast, and a warm amber glow recreate the disti
 
 Perfect for giving retro games the feel of a giant animated pinball display — especially fun with 8-bit titles and 80s arcade games.
 
-⸻
+---
 
 ### 43 SPEC LED - Virtual Boy
 
