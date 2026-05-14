@@ -7,6 +7,7 @@ A personal collection of RetroTINK 4K Pro profiles designed to emulate a wide ra
 - [How to Install](#how-to-install)
 - [Required Setup](#required-setup)
 - [Profiles](#profiles)
+- [Links](#links)
 
 ### PRO SERIES
 - [01 PRO - HD BVM 1000](#01-pro---hd-bvm-1000)
@@ -500,5 +501,7 @@ Deep monochrome red tones, high contrast, and a dense pixel structure recreate t
 
 Perfect for exploring how classic games might look through the unmistakable red glow of the Virtual Boy — a bold and unusual display unlike anything else.
 
+# Links
 
+My website: https://www.cedricbarthez.fr
 
