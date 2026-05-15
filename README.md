@@ -88,8 +88,9 @@ If they are missing, simply copy both folders into the "mask" folder of the Retr
 ## REQUIRED SETUP
 
 These profiles were created and tuned using a MiSTer FPGA connected to an LG C1 OLED in 4K HDR with Black Frame Insertion (BFI) enabled.
+They were also designed specifically for the RetroTINK 4K Pro. On the CE version, the result won't be as precise as with the Pro version, because I make extensive use of the horizontal blur function in the Processing and Effects menu.
 
-They should still work well on most OLED displays, but for the intended rendering, the following setup is recommended:
+For best results, the following setup is recommended:
 
 ### MiSTer FPGA:
 In mister.ini, set:
